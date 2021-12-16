@@ -1,0 +1,45 @@
+.UserContainer{
+    padding-top:10px
+}
+
+.ContainerCenter{
+    width: 100%;
+    height: 100%;
+    text-align:center;
+}
+.view{
+    background: #4caf50 ;
+    border-radius: 20%;
+    padding: 5px;
+    color:white;
+
+}
+
+.edit{
+    background: #fb8c00;
+    border-radius: 20%;
+    padding: 5px;
+    color:white;
+}
+
+.delete{
+    background: #d81b60;
+    border-radius: 20%;
+    padding: 5px;
+    color:white;
+
+}
+.delete:hover,.edit:hover,.view:hover{
+    color:black;
+
+}
+.pt-10{
+    padding-top:10px;
+}
+.mini-card{
+background: gray;
+color:white;
+border-radius: 20px;
+padding:2px 12px;
+margin: 2px;
+}
